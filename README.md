@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **in the Data Scientist course from Skillbox.ru**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MoutanDeew](https://github.com/MoutanDeew?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/MoutanDeew?tab=repositories](https://github.com/MoutanDeew?tab=repositories)
 
 - 💬 Ask me about **Python, pandas, scikit-learn, sql, machine learning**
 
